@@ -4,7 +4,7 @@
 
 This is just a concept I'm working on, and it's **REALLY BUGGY** at this time, so **I don't recommend** using it in real projects for now.
 
-You can also feel free to help me make this happen by using the [Issues](/issues) or [Discussions](/discussions) pages.
+You can also feel free to help me make this happen by using the [Issues](https://github.com/kaiopiola/DODB/issues) or [Discussions](https://github.com/kaiopiola/DODB/discussions) pages.
 
 Please note that I'll be reviewing your PRs too, so you can help me code it!
 
