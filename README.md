@@ -8,6 +8,13 @@ You can also feel free to help me make this happen by using the [Issues](https:/
 
 Please note that I'll be reviewing your PRs too, so you can help me code it!
 
+## What in the world is this?
+Directory-Oriented Database (Or just DODB, anyway) is my personal database engine project.
+
+The idea is to separate our databases in folders, not .SQL files, and store tables data separated by files, our Database Tables file (.dbt).
+
+It works just like a JSON from now, but I'm thinking on trying other ways to get the best performance as possible with this engine, my goal is to make it really fast for big data and queries.
+
 ## Using it
 
 You can perform POST requests to our project API to make operations in the database, to this URL:
