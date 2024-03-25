@@ -15,6 +15,16 @@ The idea is to separate our databases in folders, not .SQL files, and store tabl
 
 It works just like a JSON from now, but I'm thinking on trying other ways to get the best performance as possible with this engine, my goal is to make it really fast for big data and queries.
 
+## Dependencies
+I'm developing it using Python 3.9 and Flask library.
+
+Install this:
+```bash
+pip install flask
+pip install requests
+pip install flask-jsonpify
+```
+
 ## Using it
 
 You can perform POST requests to our project API to make operations in the database, to this URL:
